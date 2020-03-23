@@ -27,6 +27,7 @@ body * {
 }
 
 /* -------------top---------------- */
+
 .top {
   background: purple;
   grid-column-end: span 2;
